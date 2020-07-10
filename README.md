@@ -8,4 +8,4 @@ I provide Software and Support in the field of electronic data processing. As a 
 
 - :email: mirko@mirkosertic.de
 - :wave: [@mirkosertic](https://twitter.com/mirkosertic)
-- :point_right: https://www.xing.com/profile/Mirko_Sertic
+- :point_right: https://www.mirkosertic.de
