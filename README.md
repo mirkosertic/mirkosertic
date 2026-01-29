@@ -12,7 +12,7 @@ My experience spans both hands-on development and software architecture, enablin
 
 I'm also passionate about working on these open-source projects:
 
-* **[Megahub](https://github.com/mirkosertic/Megahub)** – An ESP32-based alternative hub for LEGO® enthusiasts and robotics builders. It combines the flexibility of the ESP32 platform with native support for LEGO® WeDo/Powered Up! devices, offering both Lua scripting and Blockly visual programming for intuitive control and automation.
+* **[Megahub](https://github.com/mirkosertic/Megahub)** – An ESP32-based hub for robotics builders and LEGO® enthusiasts. It combines the flexibility of the ESP32 platform with native support for LEGO® WeDo/Powered Up! devices, offering both Lua scripting and Blockly visual programming for intuitive control and automation.
 
 * **[ESP32 MusicBox](https://github.com/mirkosertic/ESP32MusicBox)** – A simple, fun, and subscription-free music player designed for kids. It doubles as a Bluetooth speaker, making it perfect for family use.
 
