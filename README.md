@@ -20,7 +20,7 @@ I'm also passionate about working on these open-source projects:
 
 * **[UltraKiosk](https://github.com/mirkosertic/UltraKiosk)** – A lightweight iOS app that displays Home Assistant in full-screen kiosk mode with voice satellite capabilities. Perfect for wall-mounted iPads serving as smart home control panels.
 
-* **[Powerstaff 2026]([https://github.com/mirkosertic/UltraKiosk](https://github.com/mirkosertic/Powerstaff2026))** – German: Powerstaff 2026 ist eine moderne Webanwendung zur Verwaltung von Freiberuflern, Partnern, Kunden und Projekten – übersichtlich, schnell und ohne Overhead. Mit integrierter KI-Profilsuche findet man den passenden Kandidaten in Sekunden, statt in Stunden. 
+* **[Powerstaff 2026]([https://github.com/mirkosertic/UltraKiosk](https://github.com/mirkosertic/Powerstaff2026)** – German: Powerstaff 2026 ist eine moderne Webanwendung zur Verwaltung von Freiberuflern, Partnern, Kunden und Projekten – übersichtlich, schnell und ohne Overhead. Mit integrierter KI-Profilsuche findet man den passenden Kandidaten in Sekunden, statt in Stunden. 
 
 #### Learn More
 
